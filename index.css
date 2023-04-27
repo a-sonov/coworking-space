@@ -10,6 +10,11 @@ header {
     color: whitesmoke;
 }
 
+main {
+    max-width: 900px;
+    margin: 0 auto;
+}
+
 .logo {
     font-size: 18px;
     font-weight: 700;
